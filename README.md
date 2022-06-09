@@ -1,6 +1,6 @@
 
 # A simple ToDo React App
- <img width="100%" src="https://cdn.loom.com/sessions/thumbnails/2851743be4cb4ee096b102f39177d419-with-play.gif">
+ <img width="100%" src="https://user-images.githubusercontent.com/86862861/172772362-bcb23fb6-94c0-4dc8-bf4e-f604af972ca9.gif">
 
 
 App created in the training I did in Matheus Battisti's course, a well-known React JS specialist.
