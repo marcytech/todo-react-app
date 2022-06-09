@@ -2,6 +2,29 @@
 # A simple ToDo React App
 ![simple-todo-app](https://user-images.githubusercontent.com/86862861/172765339-07a8d1fb-6cf4-4be0-ae21-35be2c573459.png)
 
+App created in the training I did in Matheus Battisti's course, a well-known React JS specialist.
+
+Training link:
+https://bit.ly/3MzOF4Y
+
+## What I learned developing this app
+
+- Create components
+- Instantiate components inside others
+- Styling components with CSS
+- styled-components (CSS in JS)
+- Basic React Hooks
+- Work with Rest API's and the HTTP protocol
+   - Get
+   - Post
+   - Put
+   - Delete
+
+## What I most enjoyed doing here
+
+I had already tried to understand how hooks and components worked by reading and watching other videos. But with the help of this video I finally understood the whole flow and concepts involved.
+
+Pure happiness!!!
 
 ## ToDo React App
 
