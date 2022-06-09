@@ -1,6 +1,7 @@
 
 # A simple ToDo React App
-![simple-todo-app](https://user-images.githubusercontent.com/86862861/172765339-07a8d1fb-6cf4-4be0-ae21-35be2c573459.png)
+ <img width="100%" src="https://cdn.loom.com/sessions/thumbnails/2851743be4cb4ee096b102f39177d419-with-play.gif">
+
 
 App created in the training I did in Matheus Battisti's course, a well-known React JS specialist.
 
