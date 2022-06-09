@@ -1,8 +1,11 @@
-# ToDo React App
+
+# A simple ToDo React App
+![simple-todo-app](https://user-images.githubusercontent.com/86862861/172765339-07a8d1fb-6cf4-4be0-ae21-35be2c573459.png)
+
+
+## ToDo React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-[![TodoApp]({image-url})]({video-url} "Link Title")
 
 ## Available Scripts
 
